@@ -1,21 +1,21 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "bottazzo",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "BoyzKzKj.aternos.me",
+    "port": 38369,
+    "version": "1.19.2"
   },
 
   "position": {
-    "enabled": false,
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "enabled": true,
+    "x": 10,
+    "y": 10,
+    "z": 200
   },
 
   "utils": {
@@ -25,7 +25,7 @@
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false
     },
 
